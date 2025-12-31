@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Smit Bhavsar</h1>
-<h3 align="center">Aspiring Data Scientist | B.Tech Student</h3>
+<h3 align="center">MSc Data Science Student | B.Tech Graduate</h3>
 
 ---
 
-🌱 I’m currently learning **Machine Learning & Deep Learning**  
-💬 Ask me about **Python, Data Analysis, Machine Learning**  
-📫 How to reach me: **bhavsarsmit9 [at] gmail [dot] com**
+🎓 Currently pursuing **MSc in Data Science**  
+🌱 Strengthening skills in **Data Science, Machine Learning & Deep Learning**  
+💬 Ask me about **Python, Data Analysis, Machine Learning**
 
 ---
 
@@ -13,6 +13,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/smit-bhavsar-ds" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:bhavsarsmit9@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
@@ -36,4 +39,4 @@
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ This GitHub showcases my academic work, projects, and continuous learning in Data Science.
