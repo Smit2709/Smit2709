@@ -39,4 +39,4 @@
 
 ---
 
-⭐ This GitHub showcases my academic work, projects, and continuous learning in Data Science.
+⭐ Feel free to explore my repositories and connect with me!
