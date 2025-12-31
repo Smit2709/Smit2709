@@ -60,5 +60,6 @@ Currently focusing on strengthening my foundations in **Machine Learning, Deep L
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/smit-bhavsar-ds
+- 📧 Email: bhavsarsmit9 [at] gmail [dot] com
 
 ⭐ Feel free to explore my repositories and connect with me!
